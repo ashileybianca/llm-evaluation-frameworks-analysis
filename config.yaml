@@ -1,0 +1,5 @@
+env_file: pipeline/.env
+datasets: datasets
+reports: reports
+logs: logs
+modelfiles: modelfiles
